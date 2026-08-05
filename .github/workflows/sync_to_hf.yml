@@ -16,4 +16,5 @@ jobs:
       env:
         HF_TOKEN: ${{ secrets.HF_TOKEN }}
       run: |
-        git push --force https://krishnf251-afk:$HF_TOKEN@huggingface.co/spaces/krishnf251-afk/YOUR_SPACE_NAME main
+        git push --force https://Ninjadubbing:$HF_TOKEN@huggingface.co/spaces/Ninjadubbing/YOUR_SPACE_NAME main
+        
